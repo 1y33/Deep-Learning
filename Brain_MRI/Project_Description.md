@@ -7,6 +7,7 @@ Our dataset consists of 4 different types of brain tumours:
 - meningioma
 - notumor
 - pituitary
+
 *The scope of this project is an educational one showing how we can use pretrained models to suit everyday problems by simply adding extra layers to the model*
 ## The architecture I used:
 For this project I tried 4 different architectures from the `torchvision.models`  subpackage  which contains different models.
