@@ -36,6 +36,7 @@ The results may vary because of the number of parameters in each architecture.
 | VGG16 | 0.04643 | 0.15485 | 98.80% | 94.59% |
 ### Graphs for the train loss and the test loss :
 - ResNet50
+  ![][Images/Resnet50.png]
 - AlexNet
 - Mobile Net V3 Large
 - VGG16
