@@ -14,7 +14,7 @@ For this project I tried 4 different architectures from the `torchvision.models`
 ## Parameters for each architecture:
 The results may vary because of the number of parameters in each architecture.
 
-###Parameters of the models
+### Parameters of the models
 | Model | Total Params | Trainable Params | Non-Trainable Params |
 |---|---|---|---|
 | ResNet50 | 30,433,156 | 6,925,124 | 23,508,032 |
