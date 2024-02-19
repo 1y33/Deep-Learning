@@ -8,7 +8,7 @@ from sklearn.preprocessing import StandardScaler
 from sklearn.model_selection import train_test_split
 
 from sklearn.metrics import confusion_matrix
-
+### https://www.kaggle.com/datasets/rashikrahmanpritom/heart-attack-analysis-prediction-dataset dataset 
 # %%
 df = pd.read_csv("NN_Scratch/heart.csv")
 df
